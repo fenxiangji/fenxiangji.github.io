@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 焚香鸡的博客
 subtitle: ''
-description: ''
+description: '风亭人醉月朦胧，炉烟缈缈似绾霜。落英缤纷香袅袅，清韵于斯自遒藏。笔墨生香映彩虹，翰墨遒藻伫思无穷。凝眸一瞬迷醉意，醒来有诗百字耦。'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: FenXiangJi
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
